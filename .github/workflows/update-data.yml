@@ -1,1 +1,51 @@
+name: Update data.json
 
+# Triggered by the Power Automate flow via a repository_dispatch event
+# (event_type = "update-data"). The flow sends the full JSON object as the
+# client_payload; this workflow writes it to data.json and commits it.
+
+on:
+  repository_dispatch:
+    types: [update-data]
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Show received payload (debug)
+        env:
+          PAYLOAD: ${{ toJSON(github.event.client_payload) }}
+        run: |
+          echo "----- received client_payload -----"
+          echo "$PAYLOAD"
+          echo "-----------------------------------"
+
+      - name: Write payload to data.json
+        env:
+          PAYLOAD: ${{ toJSON(github.event.client_payload) }}
+        run: |
+          if [ -z "$PAYLOAD" ] || [ "$PAYLOAD" = "null" ] || [ "$PAYLOAD" = "{}" ]; then
+            echo "::error::client_payload was empty — the flow did not send the data object."
+            exit 1
+          fi
+          # Write to a temp file first so data.json is never left truncated on error.
+          printf '%s' "$PAYLOAD" | jq '.' > data.json.tmp
+          mv data.json.tmp data.json
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update data.json via Power Automate ($(date -u +%FT%TZ))"
+            git push
+          fi
