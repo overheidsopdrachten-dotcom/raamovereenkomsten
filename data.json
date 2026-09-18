@@ -1,6 +1,6 @@
 {
-  "count": 58,
-  "generatedAt": "2026-09-17T01:30:02.2597061Z",
+  "count": 59,
+  "generatedAt": "2026-09-18T01:30:02.2614880Z",
   "items": [
     {
       "aanbestedendeOverheid": "DOKO",
@@ -42,20 +42,6 @@
       "modified": "2026-01-07T10:19:30Z",
       "startdatum": "2023-09-01",
       "titel": "AED - Defibrilatoren aankoop en onderhoud",
-      "verplicht": "Nee"
-    },
-    {
-      "aanbestedendeOverheid": "DOKO",
-      "einddatum": "2026-08-16",
-      "id": 241,
-      "jaartalActief": "2021-2026",
-      "keywords": null,
-      "leverancier": "GRCT/Vanheede Environmental",
-      "link": "https://www.doko.be/fiche-afval",
-      "memo": null,
-      "modified": "2026-01-07T10:19:31Z",
-      "startdatum": "2021-08-16",
-      "titel": "afvalophaling",
       "verplicht": "Nee"
     },
     {
@@ -813,6 +799,34 @@
       "startdatum": "2024-11-01",
       "titel": "netwerkcomponenten",
       "verplicht": null
+    },
+    {
+      "aanbestedendeOverheid": "Opdrachtencentrale",
+      "einddatum": "2029-07-07",
+      "id": 298,
+      "jaartalActief": null,
+      "keywords": null,
+      "leverancier": "Renewi, Vanheede, Sinons",
+      "link": "https://www.opdrachtencentrale.be/contract/facilitair-gebouwenbeheer-4/afvalophaling-en-verwerking-21",
+      "memo": null,
+      "modified": "2026-09-17T12:59:38Z",
+      "startdatum": "2025-07-08",
+      "titel": "afvalophaling",
+      "verplicht": "Nee"
+    },
+    {
+      "aanbestedendeOverheid": "DOKO",
+      "einddatum": "2031-08-16",
+      "id": 299,
+      "jaartalActief": null,
+      "keywords": null,
+      "leverancier": "GRCT, Traflux BV, Garwig Logistics BV",
+      "link": "https://www.doko.be/fiche-afval-26",
+      "memo": null,
+      "modified": "2026-09-17T13:22:23Z",
+      "startdatum": "2026-08-17",
+      "titel": "afvalophaling",
+      "verplicht": "Nee"
     }
   ]
 }
