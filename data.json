@@ -1,6 +1,6 @@
 {
-  "count": 59,
-  "generatedAt": "2026-10-12T01:30:02.6556263Z",
+  "count": 60,
+  "generatedAt": "2026-10-13T01:30:02.4903053Z",
   "items": [
     {
       "aanbestedendeOverheid": "DOKO",
@@ -826,6 +826,20 @@
       "modified": "2026-09-17T13:22:23Z",
       "startdatum": "2026-08-17",
       "titel": "afvalophaling",
+      "verplicht": "Nee"
+    },
+    {
+      "aanbestedendeOverheid": "Opdrachtencentrale",
+      "einddatum": "2029-01-19",
+      "id": 300,
+      "jaartalActief": null,
+      "keywords": "beveiliging\nbewakingscamera\nbewaking",
+      "leverancier": "Protection Unit",
+      "link": "https://www.opdrachtencentrale.be/contract/facilitair-gebouwenbeheer-4/bewakingsdiensten-49",
+      "memo": "c.grigoras@protectionunit.com",
+      "modified": "2026-10-12T10:30:11Z",
+      "startdatum": "2025-12-20",
+      "titel": "Bewakingscamera's",
       "verplicht": "Nee"
     }
   ]
