@@ -1,6 +1,6 @@
 {
-  "count": 60,
-  "generatedAt": "2026-10-21T01:30:02.5764211Z",
+  "count": 63,
+  "generatedAt": "2026-10-22T01:30:02.0676114Z",
   "items": [
     {
       "aanbestedendeOverheid": "DOKO",
@@ -192,8 +192,8 @@
       "keywords": null,
       "leverancier": "Ricoh/Canon",
       "link": "https://www.doko.be/fiche-copiers-2022",
-      "memo": "cascadesysteem",
-      "modified": "2026-01-07T10:19:50Z",
+      "memo": "cascadesysteem - wij raden Canon af wegens grote problemen met facturatie door leasing via BNP",
+      "modified": "2026-10-21T08:18:45Z",
       "startdatum": "2023-01-04",
       "titel": "copiers (printers) en MFP",
       "verplicht": "Nee"
@@ -752,8 +752,8 @@
       "keywords": "printers ; multifunctionals (MFP’s) ; scanners ; document scanners ; grootformaatprinters ; printbeheer ; scanbeheer",
       "leverancier": "Konica Minolta of Canon",
       "link": "https://www.opdrachtencentrale.be/contract/ict-digitalisering-6/multifunctionele-printers-34",
-      "memo": "maximale looptijd van 60 facturatiemaanden.   quotum: Canon: maximaal 55–75 % | Konica Minolta: maximaal 25–45%",
-      "modified": "2026-02-05T10:05:01Z",
+      "memo": "maximale looptijd van 60 facturatiemaanden.   quotum: Canon: maximaal 55–75 % | Konica Minolta: maximaal 25–45%               - wij raden Canon af wegens grote problemen met facturatie door leasing via BNP",
+      "modified": "2026-10-21T08:19:39Z",
       "startdatum": "2026-01-01",
       "titel": "copiers (printers) en MFP",
       "verplicht": "Nee"
@@ -841,6 +841,48 @@
       "startdatum": "2025-12-20",
       "titel": "Bewakingscamera's",
       "verplicht": "Nee"
+    },
+    {
+      "aanbestedendeOverheid": null,
+      "einddatum": null,
+      "id": 301,
+      "jaartalActief": null,
+      "keywords": null,
+      "leverancier": null,
+      "link": null,
+      "memo": null,
+      "modified": "2026-10-21T08:08:31Z",
+      "startdatum": null,
+      "titel": null,
+      "verplicht": null
+    },
+    {
+      "aanbestedendeOverheid": "DOKO",
+      "einddatum": "2032-12-01",
+      "id": 302,
+      "jaartalActief": null,
+      "keywords": null,
+      "leverancier": "Lichtvis BV ; Standaard Boekhandel NV",
+      "link": "https://www.doko.be/fiche-schoolboeken-bao-distributie-26",
+      "memo": "Lichtvis (fijnlevering) of Standaard Boekhandel (bulk)",
+      "modified": "2026-10-21T08:17:27Z",
+      "startdatum": "2026-12-01",
+      "titel": "handboeken BaO 2026 via distributeurs",
+      "verplicht": "Nee"
+    },
+    {
+      "aanbestedendeOverheid": null,
+      "einddatum": null,
+      "id": 303,
+      "jaartalActief": null,
+      "keywords": null,
+      "leverancier": null,
+      "link": null,
+      "memo": null,
+      "modified": "2026-10-21T08:10:41Z",
+      "startdatum": null,
+      "titel": null,
+      "verplicht": null
     }
   ]
 }
