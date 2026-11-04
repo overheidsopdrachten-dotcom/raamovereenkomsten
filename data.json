@@ -1,6 +1,6 @@
 {
-  "count": 63,
-  "generatedAt": "2026-11-03T02:30:03.3139037Z",
+  "count": 62,
+  "generatedAt": "2026-11-04T02:30:06.6795577Z",
   "items": [
     {
       "aanbestedendeOverheid": "DOKO",
@@ -290,8 +290,8 @@
       "keywords": null,
       "leverancier": "Eriks",
       "link": "https://creat.be/creat/nl/EUR/Categories/Technische-dienst/Gereedschappen---februari-2023/cd/4600007915",
-      "memo": "eerder voor technische scholen",
-      "modified": "2026-01-07T10:19:59Z",
+      "memo": "vervanging vanaf 1/2/2027, eveneens in de lijst.",
+      "modified": "2026-11-03T10:19:41Z",
       "startdatum": "2023-02-01",
       "titel": "gereedschappen",
       "verplicht": "Nee"
@@ -843,20 +843,6 @@
       "verplicht": "Nee"
     },
     {
-      "aanbestedendeOverheid": null,
-      "einddatum": null,
-      "id": 301,
-      "jaartalActief": null,
-      "keywords": null,
-      "leverancier": null,
-      "link": null,
-      "memo": null,
-      "modified": "2026-10-21T08:08:31Z",
-      "startdatum": null,
-      "titel": null,
-      "verplicht": null
-    },
-    {
       "aanbestedendeOverheid": "DOKO",
       "einddatum": "2032-12-01",
       "id": 302,
@@ -871,18 +857,18 @@
       "verplicht": "Nee"
     },
     {
-      "aanbestedendeOverheid": null,
-      "einddatum": null,
-      "id": 303,
-      "jaartalActief": null,
-      "keywords": null,
-      "leverancier": null,
-      "link": null,
-      "memo": null,
-      "modified": "2026-10-21T08:10:41Z",
-      "startdatum": null,
-      "titel": null,
-      "verplicht": null
+      "aanbestedendeOverheid": "CREAT",
+      "einddatum": "2030-11-29",
+      "id": 304,
+      "jaartalActief": "2027",
+      "keywords": "Handgereedschap, bevestigingsmateriaal, ladders, bouwlampen",
+      "leverancier": "Förch Belux Lhomme Tools",
+      "link": "https://creat.be/creat/nl/EUR/Categories/Gebouwbeheer/Gereedschappen---december-2026/cd/4600009672",
+      "memo": "uitgebreide catalogus met >140000 producten",
+      "modified": "2026-11-03T10:14:09Z",
+      "startdatum": "2027-02-01",
+      "titel": "gereedschappen",
+      "verplicht": "Nee"
     }
   ]
 }
