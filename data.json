@@ -1,6 +1,6 @@
 {
-  "count": 62,
-  "generatedAt": "2026-11-06T02:30:02.7699782Z",
+  "count": 58,
+  "generatedAt": "2026-11-07T02:30:05.3758271Z",
   "items": [
     {
       "aanbestedendeOverheid": "DOKO",
@@ -42,20 +42,6 @@
       "modified": "2026-01-07T10:19:30Z",
       "startdatum": "2023-09-01",
       "titel": "AED - Defibrilatoren aankoop en onderhoud",
-      "verplicht": "Nee"
-    },
-    {
-      "aanbestedendeOverheid": "CREAT",
-      "einddatum": "2026-11-13",
-      "id": 242,
-      "jaartalActief": "2022-2026",
-      "keywords": null,
-      "leverancier": "Veolia/Vanheede/Renewi",
-      "link": "https://creat.be/creat/nl/EUR/Categories/Technische-dienst/Afvalophaling-en--verwerking-november-2022/cd/4600007818",
-      "memo": "minicompetitie, contract 4 jaar!",
-      "modified": "2026-01-07T10:19:32Z",
-      "startdatum": "2022-11-14",
-      "titel": "afvalophaling",
       "verplicht": "Nee"
     },
     {
@@ -479,20 +465,6 @@
       "verplicht": "Nee"
     },
     {
-      "aanbestedendeOverheid": "CREAT",
-      "einddatum": "2026-06-30",
-      "id": 274,
-      "jaartalActief": "2021-2026",
-      "keywords": null,
-      "leverancier": "Selecta",
-      "link": "https://creat.be/creat/nl/EUR/Categories/Gebouwinrichting/Koffieautomaten-met-bijhorende-verbruiksproducten---juli-2021/cd/4600007205",
-      "memo": null,
-      "modified": "2026-01-07T10:20:21Z",
-      "startdatum": "2021-07-01",
-      "titel": "koffie-automaten",
-      "verplicht": "Nee"
-    },
-    {
       "aanbestedendeOverheid": "DOKO",
       "einddatum": "2027-01-24",
       "id": 275,
@@ -634,20 +606,6 @@
     },
     {
       "aanbestedendeOverheid": "DOKO",
-      "einddatum": "2026-04-30",
-      "id": 285,
-      "jaartalActief": "2022-2026",
-      "keywords": null,
-      "leverancier": "Proxifuel/ Maes en zonen",
-      "link": "https://www.doko.be/fiche-stookolie-2022",
-      "memo": null,
-      "modified": "2026-01-07T10:20:33Z",
-      "startdatum": "2022-05-01",
-      "titel": "stookolie",
-      "verplicht": "Nee"
-    },
-    {
-      "aanbestedendeOverheid": "DOKO",
       "einddatum": "2030-09-30",
       "id": 286,
       "jaartalActief": "2024-2030",
@@ -703,30 +661,16 @@
       "verplicht": "Nee"
     },
     {
-      "aanbestedendeOverheid": "CREAT",
-      "einddatum": "2026-06-30",
-      "id": 290,
-      "jaartalActief": "2021-2026",
-      "keywords": null,
-      "leverancier": "Aqualex",
-      "link": "https://creat.be/creat/nl/EUR/Categories/Gebouwinrichting/Waterautomaten-met-bijhorende-verbruiksproducten---juli-2021/cd/4600007206",
-      "memo": null,
-      "modified": "2026-01-07T10:20:39Z",
-      "startdatum": "2021-07-01",
-      "titel": "waterautomaten",
-      "verplicht": "Nee"
-    },
-    {
       "aanbestedendeOverheid": null,
-      "einddatum": "2026-08-30",
+      "einddatum": "2029-08-30",
       "id": 292,
       "jaartalActief": null,
-      "keywords": null,
+      "keywords": "Microsoft MSKIS 8 Licenties",
       "leverancier": "Microsoft via Edu-Tech",
       "link": "https://www.edu-tech.be/licenties/mskis",
       "memo": "UITSLUITEND voor Microsoft licenties!",
-      "modified": "2026-01-12T13:03:17Z",
-      "startdatum": "2022-09-01",
+      "modified": "2026-11-06T08:12:37Z",
+      "startdatum": "2026-09-01",
       "titel": "Softwarelicenties Microsoft",
       "verplicht": null
     },
